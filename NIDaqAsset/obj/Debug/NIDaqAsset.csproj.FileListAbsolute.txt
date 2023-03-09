@@ -1,0 +1,11 @@
+C:\Users\moha156x\OneDrive - Intel Corporation\Desktop\New folder\NIDaqAsset\NIDaqAsset\bin\Debug\NIDaqAsset.exe.config
+C:\Users\moha156x\OneDrive - Intel Corporation\Desktop\New folder\NIDaqAsset\NIDaqAsset\bin\Debug\NIDaqAsset.exe
+C:\Users\moha156x\OneDrive - Intel Corporation\Desktop\New folder\NIDaqAsset\NIDaqAsset\bin\Debug\NIDaqAsset.pdb
+C:\Users\moha156x\OneDrive - Intel Corporation\Desktop\New folder\NIDaqAsset\NIDaqAsset\bin\Debug\NationalInstruments.Common.dll
+C:\Users\moha156x\OneDrive - Intel Corporation\Desktop\New folder\NIDaqAsset\NIDaqAsset\bin\Debug\NationalInstruments.DAQmx.dll
+C:\Users\moha156x\OneDrive - Intel Corporation\Desktop\New folder\NIDaqAsset\NIDaqAsset\bin\Debug\Newtonsoft.Json.dll
+C:\Users\moha156x\OneDrive - Intel Corporation\Desktop\New folder\NIDaqAsset\NIDaqAsset\bin\Debug\NationalInstruments.Common.xml
+C:\Users\moha156x\OneDrive - Intel Corporation\Desktop\New folder\NIDaqAsset\NIDaqAsset\bin\Debug\NationalInstruments.DAQmx.xml
+C:\Users\moha156x\OneDrive - Intel Corporation\Desktop\New folder\NIDaqAsset\NIDaqAsset\bin\Debug\Newtonsoft.Json.xml
+C:\Users\moha156x\OneDrive - Intel Corporation\Desktop\New folder\NIDaqAsset\NIDaqAsset\obj\Debug\NIDaqAsset.exe
+C:\Users\moha156x\OneDrive - Intel Corporation\Desktop\New folder\NIDaqAsset\NIDaqAsset\obj\Debug\NIDaqAsset.pdb

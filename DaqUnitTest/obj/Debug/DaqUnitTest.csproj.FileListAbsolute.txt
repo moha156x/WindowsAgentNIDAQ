@@ -1,0 +1,9 @@
+C:\Users\moha156x\OneDrive - Intel Corporation\Desktop\New folder\NIDaqAsset\ClassLibrary2\bin\Debug\DaqUnitTest.dll
+C:\Users\moha156x\OneDrive - Intel Corporation\Desktop\New folder\NIDaqAsset\ClassLibrary2\bin\Debug\DaqUnitTest.pdb
+C:\Users\moha156x\OneDrive - Intel Corporation\Desktop\New folder\NIDaqAsset\ClassLibrary2\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\moha156x\OneDrive - Intel Corporation\Desktop\New folder\NIDaqAsset\ClassLibrary2\bin\Debug\NationalInstruments.Common.dll
+C:\Users\moha156x\OneDrive - Intel Corporation\Desktop\New folder\NIDaqAsset\ClassLibrary2\bin\Debug\NationalInstruments.DAQmx.dll
+C:\Users\moha156x\OneDrive - Intel Corporation\Desktop\New folder\NIDaqAsset\ClassLibrary2\bin\Debug\NationalInstruments.Common.xml
+C:\Users\moha156x\OneDrive - Intel Corporation\Desktop\New folder\NIDaqAsset\ClassLibrary2\bin\Debug\NationalInstruments.DAQmx.xml
+C:\Users\moha156x\OneDrive - Intel Corporation\Desktop\New folder\NIDaqAsset\ClassLibrary2\obj\Debug\DaqUnitTest.dll
+C:\Users\moha156x\OneDrive - Intel Corporation\Desktop\New folder\NIDaqAsset\ClassLibrary2\obj\Debug\DaqUnitTest.pdb
